@@ -18,6 +18,7 @@ To meet specifications, the project will require submitting five files:
 * model.h5 (a trained Keras model)
 * Report.pdf report writeup file (either markdown or pdf)
 * video.mp4 (a video recording of your vehicle driving autonomously around the track for at least one full lap)
+* behavioural-cloning.ipynb Note book contains all the used models
 
 This README file describes how to output the video in the "Details About Files In This Directory" section.
 
